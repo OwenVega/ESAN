@@ -1,0 +1,6 @@
+@UESAN.SHOPING.API_HostAddress = http://localhost:5263
+
+GET {{UESAN.SHOPING.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
